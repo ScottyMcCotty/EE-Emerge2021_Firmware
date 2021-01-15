@@ -6,3 +6,4 @@
 * Abdallah Hashem
 * Jan Truong
 * Anelise Cho
+* Darren Animo
