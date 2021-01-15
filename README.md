@@ -5,3 +5,4 @@
 * Anthony Pham
 * Abdallah Hashem
 * Jan Truong
+* Anelise Cho
