@@ -7,3 +7,4 @@
 * Jan Truong
 * Anelise Cho
 * Darren Animo
+* Sejal Karanjkar
