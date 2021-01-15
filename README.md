@@ -8,3 +8,4 @@
 * Anelise Cho
 * Darren Animo
 * Sejal Karanjkar
+* Gisselle Ibarra
